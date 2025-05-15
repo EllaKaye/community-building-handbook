@@ -11,11 +11,12 @@ book:
     - Samantha Wittke
     - Saskia Lawson-Tovey
     - Weronika Filinger
-
   date: last-modified
   chapters:
     - index.qmd
     - intro.qmd
+  repo-url: https://github.com/EllaKaye/community-building-handbook
+  repo-actions: [edit]
 
 format: 
   html:
