@@ -2,6 +2,19 @@
 title: Introduction
 ---
 
-## First section
+## What is community building? 
 
-Some text
+Community building is a group of practices to create, maintain, and sustain a community of people around a specific area or interest.
+There are different types of community and it is important to know and understand which one you are trying to build as they may need different approaches. A community without clear goals and purpose may struggle to establish and sustain itself.
+Community of interest - a community centered around a topic of interest that informs its members about said topic. Building and maintaining this community may involve circulating newsletters and information around the group or organising seminars.
+Community of practice - a community with a common interest and/or problems/concerns who come together to organise around specific group goals. Communities of practices may have informal or formal projects and subgroups to organise people into tackling specific issues faced by the community.
+
+## Who is in a community?
+
+Communities are made up of anyone interested in the topic the community is centered around. It’s important to understand who are/will be the members of your community so you can make sure your community is inclusive and accessible.
+
+## Why are communities important?
+
+Communities are spaces that give people a sense of purpose and belonging and opportunities to connect, share, and support one another. 
+Community has power. We face many challenges in this world; solving these alone is both nigh on impossible and incredibly lonely. Bringing people together provides safety and resilience in the face of these challenges and gives everyone more agency to create the positive change we wish to see. 
+The connections found in community are also essential to good mental health and wellbeing. However, this does not mean you can bring people together and it’s automatically a positive experience for everyone. You must be very intentional when creating your community to foster trust and ensure it’s a psychologically safe space for all. 

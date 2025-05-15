@@ -15,6 +15,11 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
+    - who.qmd
+    - organise.qmd
+    - sustain.qmd
+    - grow.qmd
+    - edia.qmd
   repo-url: https://github.com/EllaKaye/community-building-handbook
   repo-actions: [edit]
 

@@ -1,0 +1,66 @@
+---
+title: How do I build and grow my community
+---
+
+#### **Community tools and spaces**
+
+- Website  
+  - Consider: Collaborative editing and review possibility  
+  - Creation  
+    - Zola  
+    - Sphinx  
+    - Quarto  
+    - …  
+  - Hosting  
+    - GitHub pages  
+    - …  
+- Newsletter  
+  - MailChimp  
+  - …  
+- Task tracking  
+  - Trello  
+  - GitHub project  
+  - ..  
+- Data management  
+  - Google Drive  
+  - GitHub  
+- Collaboration platforms  
+  - Chat  
+    - Slack  
+    - RocketChat  
+    - Zulip  
+    - Mattermost  
+    - Resources:  
+      - CSCCE “Creating an engaging community on Slack” https://zenodo.org/records/3763712  
+  - Collaborative notetaking  
+    - HackMD/HedgeDoc  
+    - Google Docs  
+    - Etherpad’  
+    - Miro  
+    - Padlet  
+- Social media  
+  - LinkedIn: Reaching companies  
+  - BlueSky  
+  - Mastodon  
+  - X  
+- Survey and Feedback gathering  
+  - Google forms  
+  - Webropol  
+  - Mentimeter  
+- Event  
+  - Virtual  
+    - Platforms  
+      - Zoom  
+      - Jitsi  
+      - MS Teams  
+      - GatherTown  
+      - …  
+  - In-person  
+  - Hybrid  
+  - Registration:   
+    - Indico  
+    - Google forms  
+
+	- Resources:   
+    - CSCCE “A guide to using virtual events to facilitate community building: Selecting and testing online tools” https://zenodo.org/records/4521211  
+    - CSCCE “DEI Tip Sheet: Virtual event accessibility guiding questions” : https://zenodo.org/records/8043909
