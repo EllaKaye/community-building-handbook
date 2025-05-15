@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "To reference the Community Building Handbook, please cite it as below."
+title: "Community Building Handbook"
+authors:
+- name: "Community Building Handbook Team"
+license: "CC-BY-4.0"
+version: #FIXME
+doi: #FIXME
+date-released: "2025-05-15"
+url: "https://github.com/EllaKaye/community-building-handbook"
