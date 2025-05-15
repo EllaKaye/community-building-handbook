@@ -1,4 +1,4 @@
-# Guidebook for community building
+# Community Building Guidebook
 
 
 ## Contributing
