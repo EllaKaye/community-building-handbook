@@ -4,13 +4,14 @@ project:
 book:
   title: "Community Building Handbook"
   author: 
-    - Anica Araneta
-    - Weronika Filinger
     - Aman Goel
+    - Anica Araneta
     - Ella Kaye
-    - Saskia Lawson-Tovey
     - Oscar Seip
     - Samantha Wittke
+    - Saskia Lawson-Tovey
+    - Weronika Filinger
+
   date: last-modified
   chapters:
     - index.qmd
