@@ -1,5 +1,8 @@
 # Community Building Handbook
 
+## License
+
+Unless otherwise specified on particular materials, all material in this repository is licensed under under the [Creative Commons Attribution licence](https://creativecommons.org/licenses/by/4.0/) (CC-BY 4.0). Further information can be found in [LICENSE.md](LICENSE.md).
 
 ## Contributing
 
