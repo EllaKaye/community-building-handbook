@@ -1,0 +1,32 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Community Building Handbook",
+    "section": "",
+    "text": "Welcome!\nSome text",
+    "crumbs": [
+      "Welcome!"
+    ]
+  },
+  {
+    "objectID": "index.html#acknowledgements",
+    "href": "index.html#acknowledgements",
+    "title": "Community Building Handbook",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nSome more text",
+    "crumbs": [
+      "Welcome!"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "1.1 First section\nSome text",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  }
+]
