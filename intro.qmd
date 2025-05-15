@@ -18,3 +18,7 @@ Communities are made up of anyone interested in the topic the community is cente
 Communities are spaces that give people a sense of purpose and belonging and opportunities to connect, share, and support one another. 
 Community has power. We face many challenges in this world; solving these alone is both nigh on impossible and incredibly lonely. Bringing people together provides safety and resilience in the face of these challenges and gives everyone more agency to create the positive change we wish to see. 
 The connections found in community are also essential to good mental health and wellbeing. However, this does not mean you can bring people together and it’s automatically a positive experience for everyone. You must be very intentional when creating your community to foster trust and ensure it’s a psychologically safe space for all. 
+
+## Where is your community currently?
+
+![](img/flowchart.jpg)
