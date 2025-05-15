@@ -14,13 +14,13 @@ In this regard, this handbook provides a first practical introduction to communi
 
 In alphabetical order by first name:
 
-- Aman Goel
-- Anica Araneta
-- Ella Kaye
-- Oscar Seip
-- Samantha Wittke
-- Saskia Lawson-Tovey
-- Weronika Filinger
+- [Aman Goel](https://github.com/amangoel185)
+- [Anica Araneta](https://github.com/vmaraneta)
+- [Ella Kaye](https://github.com/EllaKaye)
+- [Oscar Seip](https://github.com/OscarSeip)
+- [Samantha Wittke](https://github.com/samumantha)
+- [Saskia Lawson-Tovey](https://github.com/saskia-lawson-tovey)
+- [Weronika Filinger](https://github.com/wfilinger)
 
 ## Contributing
 
