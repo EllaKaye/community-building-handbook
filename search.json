@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Community Building Handbook",
     "section": "",
-    "text": "Welcome!\nSome text",
+    "text": "Welcome!\nThis is a community building handbook for those for whom community building is not their main job!\nThere are a broad range of different communities in the Research Software space, and running these communities requires work. Whilst large communities, such as the Software Sustainability Institute, employ Community Managers (capital C, capital M), most smaller communities are run by volunteers, or by people for whom it is a small part of their overall role. While being part of these communities may be associated with their job, the role of running it is usually not recognised as an essential part of their work. We’ll call these people community managers (small c, small m), because whilst they are managing a community, it’s not a recognised role.\nSuch community managers may come to community management in an ad hoc way, either starting their own communities or assuming responsibility for existing communities. It is unlikely that they have received training or even guidance on community management. They are probably learning as they go, both about what community management involves in principle, and the practical aspects of running the community.\nThis guide is written by such people, for such people! We want to share what we’ve learnt about managing a community, whilst acknowledging that community management is likely a small part of your professional role, or not officially part of it at all. We want you to know what we wish we had known when we started out. We want to provide you with practical suggestions and resources that you need to run a community, specifically for when you don’t have much time for running said community.\nIn this regard, this handbook provides a first practical introduction to community management. If you are already a Community Manager, or are interested in becoming recognised as one, there are excellent training courses and resources in the Research Software or other technical/scientific worlds, such as those provided by The Centre for Scientific Collaboration and Community Engagement (CSCCE). The Turing Way is also developing a Research Community Manager pathway.",
     "crumbs": [
       "Welcome!"
     ]
@@ -14,7 +14,7 @@
     "href": "index.html#acknowledgements",
     "title": "Community Building Handbook",
     "section": "Acknowledgements",
-    "text": "Acknowledgements\nSome more text",
+    "text": "Acknowledgements\nThe initial version of this repository has been created during the Software Sustainability Institute Collaborations Workshop 2025 Hack Day.",
     "crumbs": [
       "Welcome!"
     ]
@@ -24,9 +24,129 @@
     "href": "intro.html",
     "title": "1  Introduction",
     "section": "",
-    "text": "1.1 First section\nSome text",
+    "text": "1.1 What is community building?\nCommunity building is a group of practices to create, maintain, and sustain a community of people around a specific area or interest. There are different types of community and it is important to know and understand which one you are trying to build as they may need different approaches. A community without clear goals and purpose may struggle to establish and sustain itself. Community of interest - a community centered around a topic of interest that informs its members about said topic. Building and maintaining this community may involve circulating newsletters and information around the group or organising seminars. Community of practice - a community with a common interest and/or problems/concerns who come together to organise around specific group goals. Communities of practices may have informal or formal projects and subgroups to organise people into tackling specific issues faced by the community.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#who-is-in-a-community",
+    "href": "intro.html#who-is-in-a-community",
+    "title": "1  Introduction",
+    "section": "1.2 Who is in a community?",
+    "text": "1.2 Who is in a community?\nCommunities are made up of anyone interested in the topic the community is centered around. It’s important to understand who are/will be the members of your community so you can make sure your community is inclusive and accessible.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#why-are-communities-important",
+    "href": "intro.html#why-are-communities-important",
+    "title": "1  Introduction",
+    "section": "1.3 Why are communities important?",
+    "text": "1.3 Why are communities important?\nCommunities are spaces that give people a sense of purpose and belonging and opportunities to connect, share, and support one another. Community has power. We face many challenges in this world; solving these alone is both nigh on impossible and incredibly lonely. Bringing people together provides safety and resilience in the face of these challenges and gives everyone more agency to create the positive change we wish to see. The connections found in community are also essential to good mental health and wellbeing. However, this does not mean you can bring people together and it’s automatically a positive experience for everyone. You must be very intentional when creating your community to foster trust and ensure it’s a psychologically safe space for all.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "who.html",
+    "href": "who.html",
+    "title": "2  Who is the community?",
+    "section": "",
+    "text": "2.1 Membership\n##Types of communities",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Who is the community?</span>"
+    ]
+  },
+  {
+    "objectID": "who.html#membership",
+    "href": "who.html#membership",
+    "title": "2  Who is the community?",
+    "section": "",
+    "text": "How to do outreach? Existing networks, social media\nSustaining engagement and considering locality",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Who is the community?</span>"
+    ]
+  },
+  {
+    "objectID": "who.html#stakeholders",
+    "href": "who.html#stakeholders",
+    "title": "2  Who is the community?",
+    "section": "2.2 Stakeholders",
+    "text": "2.2 Stakeholders",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Who is the community?</span>"
+    ]
+  },
+  {
+    "objectID": "organise.html",
+    "href": "organise.html",
+    "title": "3  How do I organise and maintain my community?",
+    "section": "",
+    "text": "3.1 Structure & Organisation\n(also links to sustainability)",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>How do I organise and maintain my community?</span>"
+    ]
+  },
+  {
+    "objectID": "organise.html#structure-organisation",
+    "href": "organise.html#structure-organisation",
+    "title": "3  How do I organise and maintain my community?",
+    "section": "",
+    "text": "Mission statement (also links to governance & sustainability)\n\nGovernance\n\nLegal position\n\nPolicies",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>How do I organise and maintain my community?</span>"
+    ]
+  },
+  {
+    "objectID": "sustain.html",
+    "href": "sustain.html",
+    "title": "4  How do I sustain and professionalise my community?",
+    "section": "",
+    "text": "4.1 Sharing the load/burden",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>How do I sustain and professionalise my community?</span>"
+    ]
+  },
+  {
+    "objectID": "sustain.html#sharing-the-loadburden",
+    "href": "sustain.html#sharing-the-loadburden",
+    "title": "4  How do I sustain and professionalise my community?",
+    "section": "",
+    "text": "4.1.1 Burnout + recruiting others to help\nOpportunities to learn & contribute\nUpskilling\nSupport\nFrom employer\nFunding\nAdvocacy\nRecognition for community building work\nLeadership\nDirection\nTeambuilding\nMentorship\nPathways to leadership",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>How do I sustain and professionalise my community?</span>"
+    ]
+  },
+  {
+    "objectID": "grow.html",
+    "href": "grow.html",
+    "title": "5  How do I build and grow my community",
+    "section": "",
+    "text": "5.0.0.1 Community tools and spaces\n\nWebsite\n\nConsider: Collaborative editing and review possibility\n\nCreation\n\nZola\n\nSphinx\n\nQuarto\n\n…\n\n\nHosting\n\nGitHub pages\n\n…\n\n\n\nNewsletter\n\nMailChimp\n\n…\n\n\nTask tracking\n\nTrello\n\nGitHub project\n\n..\n\n\nData management\n\nGoogle Drive\n\nGitHub\n\n\nCollaboration platforms\n\nChat\n\nSlack\n\nRocketChat\n\nZulip\n\nMattermost\n\nResources:\n\nCSCCE “Creating an engaging community on Slack” https://zenodo.org/records/3763712\n\n\n\nCollaborative notetaking\n\nHackMD/HedgeDoc\n\nGoogle Docs\n\nEtherpad’\n\nMiro\n\nPadlet\n\n\n\nSocial media\n\nLinkedIn: Reaching companies\n\nBlueSky\n\nMastodon\n\nX\n\n\nSurvey and Feedback gathering\n\nGoogle forms\n\nWebropol\n\nMentimeter\n\n\nEvent\n\nVirtual\n\nPlatforms\n\nZoom\n\nJitsi\n\nMS Teams\n\nGatherTown\n\n…\n\n\n\nIn-person\n\nHybrid\n\nRegistration:\n\nIndico\n\nGoogle forms\nResources:\n\nCSCCE “A guide to using virtual events to facilitate community building: Selecting and testing online tools” https://zenodo.org/records/4521211\n\nCSCCE “DEI Tip Sheet: Virtual event accessibility guiding questions” : https://zenodo.org/records/8043909",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>How do I build and grow my community</span>"
+    ]
+  },
+  {
+    "objectID": "edia.html",
+    "href": "edia.html",
+    "title": "6  Equality, Diversity, Inclusivity, Accessibility",
+    "section": "",
+    "text": "6.1 Connection",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Equality, Diversity, Inclusivity, Accessibility</span>"
+    ]
+  },
+  {
+    "objectID": "edia.html#connection",
+    "href": "edia.html#connection",
+    "title": "6  Equality, Diversity, Inclusivity, Accessibility",
+    "section": "",
+    "text": "Outreach\n\nPublic engagement (RSE community)",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Equality, Diversity, Inclusivity, Accessibility</span>"
     ]
   }
 ]
