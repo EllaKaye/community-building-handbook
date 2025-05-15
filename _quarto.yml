@@ -4,13 +4,13 @@ project:
 book:
   title: "Community Building Handbook"
   author: 
-    - Oscar Seip
-    - Ella Kaye
-    - Aman Goel
-    - Aneca Araneta
+    - Anica Araneta
     - Weronika Filinger
-    - Samantha Wittke
+    - Aman Goel
+    - Ella Kaye
     - Saskia Lawson-Tovey
+    - Oscar Seip
+    - Samantha Wittke
   date: last-modified
   chapters:
     - index.qmd
